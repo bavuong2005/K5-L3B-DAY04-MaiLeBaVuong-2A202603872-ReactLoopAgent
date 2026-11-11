@@ -1,7 +1,7 @@
 # Ghi chú phân tích · Day 04
 
-Họ và tên:
-MSSV:
+Họ và tên: Mai Lê Bá Vương 
+MSSV: 2A202603872
 
 ## 1. Case được chọn
 
